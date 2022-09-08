@@ -1,0 +1,2 @@
+localhost:8000/api/cleanings/
+localhost:8000
